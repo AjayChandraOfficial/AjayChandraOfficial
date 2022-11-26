@@ -1,7 +1,6 @@
 <p align="center">
 <img src="typeName.svg" />
 </p>
-
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
